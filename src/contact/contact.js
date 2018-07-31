@@ -1,6 +1,10 @@
+import contactform from '../contactform/index'
+
 export default {
   name: 'contact',
-  components: {},
+  components: {
+    'contactform': contactform
+  },
   props: [],
   data () {
     return {
