@@ -1,4 +1,4 @@
-# My Vue.js boilerplate
+Vue.js boilerplate
 
 ## Build Setup
 
